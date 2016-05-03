@@ -2,9 +2,8 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace ErstesProjekt
+namespace lol
 {
-    /*Ziemliche Scheiße*/
     /// <summary>
     /// This is the main type for your game.
     /// </summary>
