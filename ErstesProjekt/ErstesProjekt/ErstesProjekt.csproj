@@ -38,6 +38,9 @@
     <ApplicationIcon>Icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Components\SimulationComponent.cs" />
+    <Compile Include="Components\InputComponent.cs" />
+    <Compile Include="Components\SceneComponent.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -50,6 +53,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\starGold.png" />
     <Content Include="Icon.ico" />
   </ItemGroup>
   <ItemGroup>
